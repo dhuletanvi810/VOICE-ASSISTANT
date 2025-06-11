@@ -38,3 +38,7 @@ Python can be used in real-world applications like AI and speech.
 To work with external libraries.
 To debug and run code in an IDE like VS Code.
 This is a beginner-friendly project and a great start for students who are interested in Artificial Intelligence and Natural Language Processing (NLP).
+
+*OUTPUT*: 
+![Screenshot 2025-06-11 192238](https://github.com/user-attachments/assets/e500ad23-a123-4b82-997d-857defb9bcbc)
+![Screenshot 2025-06-11 192218](https://github.com/user-attachments/assets/8354008f-7efb-4e8f-81c5-1f92b368c97e)
